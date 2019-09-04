@@ -5,4 +5,4 @@ All you need is <br>
 2. Wireless card  
 3. Linux Machine 
 <br>
-Run this command to install necessary 
+Run this command to install necessary requirements for this tool. 
